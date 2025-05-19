@@ -22,7 +22,7 @@ function App() {
         <section className="hero-section">
           <h1 className="hero-title">AI SEO Blog Generator</h1>
           <p className="hero-subtitle">
-            Create SEO-optimized blog content with AI-powered insights and automated image generation
+            Create SEO-optimized blog content with AI-powered insights
           </p>
         </section>
 
